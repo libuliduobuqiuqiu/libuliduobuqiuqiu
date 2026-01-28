@@ -1,4 +1,2 @@
-<div align="center">
-   <img width="400" src="https://github-readme-stats-gray-tau-53.vercel.app/api?username=libuliduobuqiuqiu&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-   <img width="425" src="https://streak-stats.demolab.com?user=libuliduobuqiuqiu&theme=vue-dark&hide_border=true" />
-</div>
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=libuliduobuqiuqiu&hide=html)
+![libuliduobuqiuqiu's github stats](https://github-readme-stats-fast.vercel.app/api?username=libuliduobuqiuqiu&show_icons=true&count_private=true&line_height=40)
